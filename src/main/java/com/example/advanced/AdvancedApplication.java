@@ -1,13 +1,13 @@
-package com.example.jnaWebCourseAdvanced;
+package com.example.advanced;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JnaWebCourseAdvancedApplication {
+public class AdvancedApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JnaWebCourseAdvancedApplication.class, args);
+		SpringApplication.run(AdvancedApplication.class, args);
 	}
 
 }
